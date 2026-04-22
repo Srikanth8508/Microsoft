@@ -1,7 +1,3 @@
-# Allows scripts to run ONLY in this specific PowerShell window. 
-# It does not change system-wide settings and doesn't require Admin rights.
-Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
-
 # ==============================================================================
 # STEP 1: Connect to the Outlook Application
 # ==============================================================================
