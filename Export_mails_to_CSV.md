@@ -8,7 +8,7 @@ $namespace = $outlook.GetNamespace("MAPI")
 # ==============================================================================
 # STEP 2: Configure Your Targets
 # ==============================================================================
-$accountName = "cd@fructidor.com"        # Your email address as seen in Outlook
+$accountName = "<<username>>@gmail.com"        # Your email address as seen in Outlook
 $folderName = "Mail_backup_userwise"     # The top-level folder containing subfolders
 
 try {
