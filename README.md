@@ -1,6 +1,6 @@
 This script automates the extraction of emails from specific Outlook subfolders into individual CSV files. It captures full SMTP email addresses (even from internal Exchange accounts) and cleans the email body for perfect CSV formatting.
 
-Open Outlook: You must have Outlook open and be logged into cd@fructidor.com.
+Open Outlook: You must have Outlook open and be logged into <<Username>>@gmail.com.
 
 Open PowerShell: Search for "PowerShell" in the Start menu.
 
